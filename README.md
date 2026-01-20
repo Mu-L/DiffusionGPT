@@ -4,7 +4,7 @@ This repository contains the pytorch codes of our paper "[DiffusionAgent: Naviga
 
 ## Overview
 DiffusionAgent leverages Large Language Models (LLM) to offer a unified generation system capable of seamlessly accommodating various types of prompts and integrating domain-expert models.
-![method](imgs/method.png)
+![method](imgs/framework.pdf)
 
 ## Demo
 * [Spaces Demo 1](https://huggingface.co/spaces/DiffusionGPT/DiffusionGPT-XL)
