@@ -1,9 +1,9 @@
-# DiffusionGPT: LLM-Driven Text-to-Image Generation System
+# DiffusionAgent: Navigating Expert Models for Agentic Image Generation
 
-This repository contains the pytorch codes of our paper "[DiffusionGPT: LLM-Driven Text-to-Image Generation System]()".
+This repository contains the pytorch codes of our paper "[DiffusionAgent: Navigating Expert Models for Agentic Image Generation]()".
 
 ## Overview
-Diffusion-GPT leverages Large Language Models (LLM) to offer a unified generation system capable of seamlessly accommodating various types of prompts and integrating domain-expert models.
+DiffusionAgent leverages Large Language Models (LLM) to offer a unified generation system capable of seamlessly accommodating various types of prompts and integrating domain-expert models.
 ![method](imgs/method.png)
 
 ## Demo
@@ -22,9 +22,19 @@ All the checkpoints can get from [link](https://huggingface.co/spaces/DiffusionG
 ## Get Started
 
 ```bash
-python DiffusionGPT-sdxl-app.py
+python DiffusionAgent-sdxl-app.py
 ```
 or
 ```bash
-python DiffusionGPT-sd15-app.py
+python DiffusionAgent-sd15-app.py
+```
+
+## Bibtex
+```
+@article{qin2024diffusiongpt,
+  title={DiffusionAgent: Navigating Expert Models for Agentic Image Generation},
+  author={Qin, Jie and Wu, Jie and Chen, Weifeng and Yueming Lyu},
+  journal={arXiv preprint arXiv:2401.10061},
+  year={2026}
+}
 ```
