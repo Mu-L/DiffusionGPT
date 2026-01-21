@@ -1,6 +1,6 @@
 # DiffusionAgent: Navigating Expert Models for Agentic Image Generation
 
-This repository contains the pytorch codes of our paper "[DiffusionAgent: Navigating Expert Models for Agentic Image Generation]()".
+This repository contains the pytorch codes of our paper "[DiffusionAgent: Navigating Expert Models for Agentic Image Generation](https://arxiv.org/abs/2401.10061v2)".
 
 ## Overview
 DiffusionAgent leverages Large Language Models (LLM) to offer a unified generation agent capable of seamlessly accommodating various types of prompts and integrating domain-expert models.
