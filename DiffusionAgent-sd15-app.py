@@ -68,8 +68,8 @@ Previous conversation history:
 {chat_history}
 
 New input: {input}
-DiffusionGPT must use tools to observe images rather than imagination.
-The thoughts and observations are only visible for DiffusionGPT, DiffusionGPT should remember to repeat important information in the final response for Human. 
+DiffusionAgent must use tools to observe images rather than imagination.
+The thoughts and observations are only visible for DiffusionAgent, DiffusionAgent should remember to repeat important information in the final response for Human. 
 Thought: Do I need to use a tool? {agent_scratchpad} Let's think step by step.
 """
 
@@ -572,7 +572,7 @@ class Text2Image:
 
 class ConversationBot:
     def __init__(self, load_dict):
-        print(f"Initializing DiffusionGPT, load_dict={load_dict}")
+        print(f"Initializing DiffusionAgent, load_dict={load_dict}")
         
         self.models = {}
         # Load Basic Foundation Models
