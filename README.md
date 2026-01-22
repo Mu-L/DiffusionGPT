@@ -34,8 +34,7 @@ python DiffusionAgent-sd15-app.py
 @article{qin2024diffusionagent,
   title={DiffusionAgent: Navigating Expert Models for Agentic Image Generation},
   author={Qin, Jie and Wu, Jie and Chen, Weifeng and Yueming Lyu},
-  journal={arXiv preprint arXiv:2401.10061v2
-},
+  journal={arXiv preprint arXiv:2401.10061v2},
   year={2024}
 }
 ```
