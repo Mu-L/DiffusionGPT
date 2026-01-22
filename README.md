@@ -7,8 +7,8 @@ DiffusionAgent leverages Large Language Models (LLM) to offer a unified generati
 ![method](imgs/method.png)
 
 ## Demo
-* [Spaces Demo 1](https://huggingface.co/spaces/DiffusionGPT/DiffusionGPT-XL)
-* [Spaces Demo 2](https://huggingface.co/spaces/DiffusionGPT/DiffusionGPT)
+* [Spaces Demo 1](https://huggingface.co/spaces/DiffusionAgent/DiffusionAgent-XL)
+* [Spaces Demo 2](https://huggingface.co/spaces/DiffusionAgent/DiffusionAgent)
 
 ## Environment
 
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 
 ## Model Weights
-All the checkpoints can get from [link](https://huggingface.co/spaces/DiffusionGPT/DiffusionGPT-XL/tree/main/checkpoints).
+All the checkpoints can get from [link](https://huggingface.co/spaces/DiffusionAgent/DiffusionAgent-XL/tree/main/checkpoints).
 
 ## Get Started
 
